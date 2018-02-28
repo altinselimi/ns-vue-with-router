@@ -1,0 +1,17 @@
+$label-color: white;
+$button-bgcolor: pink;
+$button-color: white;
+$actionbar-bgcolor: rgb(125, 240, 181);
+Label {
+  color: $label-color;
+}
+Button {
+  background-color: $button-bgcolor;
+  color: $button-color;
+  padding: 10;
+  margin: 10;
+  font-size: 20;
+}
+ActionBar {
+  background-color: $actionbar-bgcolor;
+}
